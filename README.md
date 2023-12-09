@@ -11,15 +11,7 @@
 - 💬 Ask me about - my developing journey
 
 <br/> <br/>
-### 💻 **GitHub Profile Summary Cards**
 
-<div align="center">
-
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib321&theme=blue_green)
-
-</div>
-
-<br/> <br/>
 👀 **Current overview**
 
 <p align="center">
@@ -30,8 +22,11 @@
 
 <br/> <br/>
 
+💻 **GitHub Profile Summary Cards**
 
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasib321&theme=blue_green)
 
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib321&theme=blue_green)
 
 💻 **Technologies that I know**
 
